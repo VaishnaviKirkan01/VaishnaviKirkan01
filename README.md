@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Kirkan;Aspiring+Data+Scientist;AI+Engineering+Student;Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=#68327d&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Kirkan;Aspiring+Data+Scientist;AI+Engineering+Student;Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Aspiring Data Scientist | AI Engineering Student | India</h3>
